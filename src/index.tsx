@@ -13,10 +13,10 @@ const store: Store<UsersState, UsersAction> & {
 
 const rootElement = document.getElementById("root");
 render(
-  <BrowserRouter>
-    <Provider store={store}>
-      <App />
-    </Provider>
-  </BrowserRouter>,
-  rootElement
+	<BrowserRouter>
+		<Provider store={store}>
+			<App />
+		</Provider>
+	</BrowserRouter>,
+	rootElement
 );
