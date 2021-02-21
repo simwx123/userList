@@ -1,0 +1,33 @@
+.ant-table-thead > tr > th {
+  background: #515151;
+  color: #ffffff;
+}
+
+.ant-table-tbody > tr {
+  color: #00994d;
+}
+
+.ant-table-tbody > tr > td {
+  border-right: 1px solid #e5dcdc !important;
+  border-bottom: 1px solid #e5dcdc !important;
+}
+
+.ant-table-body {
+  border: 1px solid #e5dcdc !important;
+}
+
+.ant-pagination-item {
+  border: unset;
+}
+
+.ant-pagination-item a {
+  color: #66b2ff;
+}
+
+.ant-pagination-item-link {
+  color: #66b2ff !important;
+}
+
+.ant-pagination-item-active a {
+  color: #000000 !important;
+}

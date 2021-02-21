@@ -1,0 +1,9 @@
+@import "~antd/dist/antd.css";
+
+.rowwhite {
+  background: #ffffff !important;
+}
+
+.rowgray {
+  background: #f0f0f0;
+}

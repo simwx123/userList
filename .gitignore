@@ -1,0 +1,30 @@
+# dependencies
+**/node_modules
+
+# production
+/dist
+/.vscode
+
+# misc
+.DS_Store
+npm-debug.log*
+yarn-error.log
+
+/coverage
+.idea
+yarn.lock
+*bak
+.vscode
+
+# visual studio code
+.history
+*.log
+.temp/**
+
+.eslintcache
+
+build
+
+.env*.local
+
+/src/react-app-env.d.ts
